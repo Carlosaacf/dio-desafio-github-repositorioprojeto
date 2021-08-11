@@ -1,0 +1,7 @@
+links para download.
+
+
+
+O git bash é um terminal para utilização do git.
+
+https://git-scm.com/downloads
